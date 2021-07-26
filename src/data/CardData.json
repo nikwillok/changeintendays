@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/quote1.jpg",
+    "alt": "Quote 1",
+    "name": "Are you excited about what your future holds?",
+    "button": "Button Text"
+  },
+  {
+    "img": "../assets/images/quote2.jpg",
+    "alt": "Quote 2",
+    "name": "Do you feel trapped?",
+    "button": "Button Text"
+  },
+  {
+    "img": "../assets/images/quote3.jpg",
+    "alt": "Quote 3",
+    "name": "Unable to change the direction my life was heading in?",
+    "button": "Button Text"
+  },
+  {
+    "img": "../assets/images/quote4.jpg",
+    "alt": "Quote 4",
+    "name": "Are you living your best life right now?",
+    "button": "Button Text"
+  }
+]
